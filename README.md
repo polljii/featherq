@@ -10,7 +10,7 @@
 
 ![License](https://img.shields.io/badge/license-Apache--2.0-red.svg)
 ![Swift](https://img.shields.io/badge/iOS-Swift-blue)
-![AWS](https://img.shields.io/badge/Amazon-AWS-8A2BE2)
+![AWS](https://img.shields.io/badge/Amazon-AWS-orange)
 ![MariaDB](https://img.shields.io/badge/MariaDB-10.1-C8102E)
 ![Laravel](https://img.shields.io/badge/Laravel-5-gold)
 
