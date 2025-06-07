@@ -26,8 +26,8 @@
 
 ![img1](https://github.com/polljii/featherq/blob/main/featherq-logo1.png)  ![img1](https://github.com/polljii/featherq/blob/main/featherq-logo2.png)
 
-![img1](https://github.com/polljii/featherq/blob/main/featherq1.png)
+![img1](https://github.com/polljii/featherq/blob/main/featherq1.jpg)
 
-![img2](https://github.com/polljii/featherq/blob/main/featherq2.png)
+![img2](https://github.com/polljii/featherq/blob/main/featherq2.jpg)
 
-![img3](https://github.com/polljii/featherq/blob/main/featherq3.png)
+![img3](https://github.com/polljii/featherq/blob/main/featherq3.jpg)
